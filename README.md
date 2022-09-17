@@ -1,4 +1,4 @@
-## Olá, eu sou o Jonata Santiago! 👋
+## Olá, eu sou o Jonata Santiago!
 
 <!-- Contato -->
 <div>
@@ -11,10 +11,9 @@
 
 <div align="center">
   <a href="https://github.com/jonatasantiago">
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=jonatasantiago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50% "src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasantiago&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=jonatasantiago&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="53% "src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasantiago&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -30,12 +29,6 @@
   <!-- https://devicon.dev/-->
   <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 </div>
-
-##
-
-  
-
- 
 
 
 <!--
