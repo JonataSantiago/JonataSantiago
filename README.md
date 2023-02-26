@@ -1,13 +1,4 @@
-## BEM VINDO AO MEU GITHUB!
-
-<!-- Contato -->
-<div style="display: inline-block" align="RIGHT">
-   <a href="https://www.linkedin.com/in/jonata-santiago-764a896a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-  <a href = "mailto:jonata.santiago92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"/></a>
-  <a href="https://instagram.com/jonata.santiago" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>   
-  
-  <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
-</div>
+## Oi, eu sou o Jonata Santiago, apaixonado por tecnologia e educação!
 
 <!-- GitHub Stats Card -->
 <div align="center">
@@ -27,6 +18,16 @@
    <!-- https://devicon.dev/-->
   <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 </div><br>
+
+<!-- Contato -->
+<div style="display: inline-block" align="center" margin="10px>
+   <a href="https://www.linkedin.com/in/jonata-santiago-764a896a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href = "mailto:jonata.santiago92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"/></a>
+  <a href="https://instagram.com/jonata.santiago" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>   
+  
+  <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
+</div>
+
 
 <div align="center">
   
