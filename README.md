@@ -21,7 +21,7 @@
   --> 
   <!-- https://devicon.dev/-->
   <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
-</div>
+</div><br>
 
 <!-- Contato -->
 <div>
@@ -30,4 +30,4 @@
   <a href="https://instagram.com/jonata.santiago" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>   
   
   <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
-</div> <br>
+</div>
